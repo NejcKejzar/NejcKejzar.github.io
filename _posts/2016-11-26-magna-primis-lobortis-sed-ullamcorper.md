@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Magna primis lobortis sed ullamcorper
-description: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+title: Proteins
+description: Peering into the quantum world with molecular dynamics simulations.
 image: pic03.jpg
 ---
 
