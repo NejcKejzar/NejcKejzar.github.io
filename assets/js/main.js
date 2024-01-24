@@ -4,6 +4,16 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+document.addEventListener(
+	"DOMContentLoaded",
+	(event) => {
+	  particlesJS.load("particles-js", "assets/js/particles.json", function () {
+		console.log("particles.js loaded - callback");
+	  });
+	},
+	false
+	);  
+
 (function($) {
 
 	skel

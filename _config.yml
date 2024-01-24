@@ -1,7 +1,7 @@
 # Site settings
 title: Nejc Kejzar
 email: kejzar.n@gmail.com
-description: to my journey
+description: my personal website
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://nejckejzar.github.io/" # the base hostname & protocol for your site
 
@@ -15,7 +15,7 @@ featured-image-source:
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://gitlab.com/u/andrewbanchich
+github_username: NejcKejzar
 gitlab_url: 
 googleplus_url:
 instagram_url:
